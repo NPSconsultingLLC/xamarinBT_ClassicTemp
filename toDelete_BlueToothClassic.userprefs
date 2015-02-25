@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="iOS/toDelete_BlueToothClassic.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Bluetooth_iOS/BluetoothConnectionManager.cs">
+    <Files>
+      <File FileName="toDelete_BlueToothClassic/toDelete_BlueToothClassic.cs" Line="1" Column="1" />
+      <File FileName="iOS/Bluetooth_iOS/BluetoothConnectionManager.cs" Line="54" Column="54" />
+      <File FileName="iOS/MainView.cs" Line="58" Column="58" />
+      <File FileName="iOS/MainView.designer.cs" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/iOS/Bluetooth_iOS/BluetoothConnectionManager.cs" line="69" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

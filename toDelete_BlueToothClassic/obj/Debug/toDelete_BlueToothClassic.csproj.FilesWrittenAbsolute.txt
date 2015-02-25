@@ -1,0 +1,17 @@
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/Xamarin.Forms.Core.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/toDelete_BlueToothClassic.dll.mdb
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/toDelete_BlueToothClassic.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/obj/Debug/toDelete_BlueToothClassic.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/obj/Debug/toDelete_BlueToothClassic.dll.mdb
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/mscorlib.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/System.Core.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/System.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/System.Linq.Queryable.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/System.Diagnostics.Tools.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/System.Net.Primitives.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/System.Net.Requests.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/System.Net.NetworkInformation.dll
+/Users/nathanstryker/Documents/Xamarin/toDelete_BlueToothClassic/toDelete_BlueToothClassic/bin/Debug/System.Text.RegularExpressions.dll

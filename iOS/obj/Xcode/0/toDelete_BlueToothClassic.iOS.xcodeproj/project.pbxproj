@@ -1,0 +1,290 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CCEBE9700000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 105FCB350000000000000000 /* UIKit.framework */; };
+		2E6461CA0000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31F56E680000000000000000 /* MapKit.framework */; };
+		397CA6200000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 728D70000000000000000000 /* Foundation.framework */; };
+		28BE7A330000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C4F86D10000000000000000 /* CoreGraphics.framework */; };
+		24FF59060000000000000000 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 289065A40000000000000000 /* Default.png */; };
+		3A32C19E0000000000000000 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DC3CE3C0000000000000000 /* Default@2x.png */; };
+		285D82880000000000000000 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BEE8F260000000000000000 /* Default-568h@2x.png */; };
+		168843720000000000000000 /* Default-Portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A1950100000000000000000 /* Default-Portrait.png */; };
+		1A314BF10000000000000000 /* Default-Portrait@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1DC2588F0000000000000000 /* Default-Portrait@2x.png */; };
+		212082110000000000000000 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 24B18EAF0000000000000000 /* Icon-60@2x.png */; };
+		F4B42FB00000000000000000 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12DC4F990000000000000000 /* Icon-60@3x.png */; };
+		3D7603E50000000000000000 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 107108300000000000000000 /* Icon-76.png */; };
+		2BA0C4CF0000000000000000 /* Icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F31D16D0000000000000000 /* Icon-76@2x.png */; };
+		3621078D0000000000000000 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 39B2142B0000000000000000 /* Icon-Small.png */; };
+		244BC8770000000000000000 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 27DCD5150000000000000000 /* Icon-Small@2x.png */; };
+		127689610000000000000000 /* Icon-Small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 160795FF0000000000000000 /* Icon-Small@3x.png */; };
+		2087D8BD0000000000000000 /* Icon-Small-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 2418E55B0000000000000000 /* Icon-Small-40.png */; };
+		2E9928190000000000000000 /* Icon-Small-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 322A34B70000000000000000 /* Icon-Small-40@2x.png */; };
+		1CC3E9030000000000000000 /* Icon-Small-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2054F5A10000000000000000 /* Icon-Small-40@3x.png */; };
+		AEEA9ED00000000000000000 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7FB68B00000000000000000 /* LaunchScreen.storyboard */; };
+		39196AD70000000000000000 /* MainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3CAA77750000000000000000 /* MainView.xib */; };
+		271148A50000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2AA255430000000000000000 /* Info.plist */; };
+		153C098F0000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18CD162D0000000000000000 /* Entitlements.plist */; };
+		3340A0240000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = 36D1ACC20000000000000000 /* AppDelegate.h */; };
+		285A972E0000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEBA3CC0000000000000000 /* AppDelegate.m */; };
+		26789F510000000000000000 /* MainView.h in Sources */ = {isa = PBXBuildFile; fileRef = 2A09ABEF0000000000000000 /* MainView.h */; };
+		21059AD60000000000000000 /* MainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2496A7740000000000000000 /* MainView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		206DF9A90000000000000000 /* toDelete_BlueToothClassic.iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "toDelete_BlueToothClassic.iOS.app"; path = "toDelete_BlueToothClassic.iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		105FCB350000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		31F56E680000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		728D70000000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		2C4F86D10000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		289065A40000000000000000 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default.png"; path = "Default.png"; sourceTree = "<group>"; };
+		3DC3CE3C0000000000000000 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "Default@2x.png"; sourceTree = "<group>"; };
+		2BEE8F260000000000000000 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		1A1950100000000000000000 /* Default-Portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Portrait.png"; path = "Default-Portrait.png"; sourceTree = "<group>"; };
+		1DC2588F0000000000000000 /* Default-Portrait@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-Portrait@2x.png"; path = "Default-Portrait@2x.png"; sourceTree = "<group>"; };
+		24B18EAF0000000000000000 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@2x.png"; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		12DC4F990000000000000000 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60@3x.png"; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		107108300000000000000000 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76.png"; path = "Icon-76.png"; sourceTree = "<group>"; };
+		2F31D16D0000000000000000 /* Icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76@2x.png"; path = "Icon-76@2x.png"; sourceTree = "<group>"; };
+		39B2142B0000000000000000 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small.png"; path = "Icon-Small.png"; sourceTree = "<group>"; };
+		27DCD5150000000000000000 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@2x.png"; path = "Icon-Small@2x.png"; sourceTree = "<group>"; };
+		160795FF0000000000000000 /* Icon-Small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@3x.png"; path = "Icon-Small@3x.png"; sourceTree = "<group>"; };
+		2418E55B0000000000000000 /* Icon-Small-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-40.png"; path = "Icon-Small-40.png"; sourceTree = "<group>"; };
+		322A34B70000000000000000 /* Icon-Small-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-40@2x.png"; path = "Icon-Small-40@2x.png"; sourceTree = "<group>"; };
+		2054F5A10000000000000000 /* Icon-Small-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-40@3x.png"; path = "Icon-Small-40@3x.png"; sourceTree = "<group>"; };
+		E7FB68B00000000000000000 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "LaunchScreen.storyboard"; path = "LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		3CAA77750000000000000000 /* MainView.xib */ = {isa = PBXFileReference; name = "MainView.xib"; path = "MainView.xib"; sourceTree = "<group>"; };
+		2AA255430000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		18CD162D0000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		36D1ACC20000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		2BEBA3CC0000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+		2A09ABEF0000000000000000 /* MainView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "MainView.h"; path = "MainView.h"; sourceTree = "<group>"; };
+		2496A7740000000000000000 /* MainView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "MainView.m"; path = "MainView.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2282D4A20000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CCEBE9700000000000000000 /* UIKit.framework in Frameworks */,
+				2E6461CA0000000000000000 /* MapKit.framework in Frameworks */,
+				397CA6200000000000000000 /* Foundation.framework in Frameworks */,
+				28BE7A330000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		29C463000000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				2D35FA7C0000000000000000 /* toDelete_BlueToothClassic.iOS */,
+				10E078A80000000000000000 /* Frameworks */,
+				37E920560000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		37E920560000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				206DF9A90000000000000000 /* toDelete_BlueToothClassic.iOS.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		10E078A80000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				105FCB350000000000000000 /* UIKit.framework */,
+				31F56E680000000000000000 /* MapKit.framework */,
+				728D70000000000000000000 /* Foundation.framework */,
+				2C4F86D10000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		2D35FA7C0000000000000000 /* toDelete_BlueToothClassic.iOS */ = {
+			isa = PBXGroup;
+			children = (
+				36D1ACC20000000000000000 /* AppDelegate.h */,
+				289065A40000000000000000 /* Default.png */,
+				3DC3CE3C0000000000000000 /* Default@2x.png */,
+				2BEE8F260000000000000000 /* Default-568h@2x.png */,
+				1A1950100000000000000000 /* Default-Portrait.png */,
+				1DC2588F0000000000000000 /* Default-Portrait@2x.png */,
+				18CD162D0000000000000000 /* Entitlements.plist */,
+				24B18EAF0000000000000000 /* Icon-60@2x.png */,
+				12DC4F990000000000000000 /* Icon-60@3x.png */,
+				107108300000000000000000 /* Icon-76.png */,
+				2F31D16D0000000000000000 /* Icon-76@2x.png */,
+				39B2142B0000000000000000 /* Icon-Small.png */,
+				27DCD5150000000000000000 /* Icon-Small@2x.png */,
+				160795FF0000000000000000 /* Icon-Small@3x.png */,
+				2418E55B0000000000000000 /* Icon-Small-40.png */,
+				322A34B70000000000000000 /* Icon-Small-40@2x.png */,
+				2054F5A10000000000000000 /* Icon-Small-40@3x.png */,
+				2AA255430000000000000000 /* Info.plist */,
+				E7FB68B00000000000000000 /* LaunchScreen.storyboard */,
+				2A09ABEF0000000000000000 /* MainView.h */,
+				3CAA77750000000000000000 /* MainView.xib */,
+				2A3C8F0B0000000000000000 /* Supporting Files */,
+			);
+			name = "toDelete_BlueToothClassic.iOS";
+			sourceTree = "<group>";
+		};
+		2A3C8F0B0000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2BEBA3CC0000000000000000 /* AppDelegate.m */,
+				2496A7740000000000000000 /* MainView.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1C7726D30000000000000000 /* toDelete_BlueToothClassic.iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 15BAD3CF0000000000000000 /* Build configuration list for PBXNativeTarget "toDelete_BlueToothClassic.iOS" */;
+			buildPhases = (
+				D1C88EE00000000000000000 /* Sources */,
+				2282D4A20000000000000000 /* Frameworks */,
+				360728790000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "toDelete_BlueToothClassic.iOS";
+			productName = "toDelete_BlueToothClassic.iOS";
+			productReference = 206DF9A90000000000000000 /* toDelete_BlueToothClassic.iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		11C400F90000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 776A15700000000000000000 /* Build configuration list for PBXProject "toDelete_BlueToothClassic.iOS" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 29C463000000000000000000;
+			productRefGroup = 37E920560000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1C7726D30000000000000000 /* toDelete_BlueToothClassic.iOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		360728790000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24FF59060000000000000000 /* Default.png in Resources */,
+				3A32C19E0000000000000000 /* Default@2x.png in Resources */,
+				285D82880000000000000000 /* Default-568h@2x.png in Resources */,
+				168843720000000000000000 /* Default-Portrait.png in Resources */,
+				1A314BF10000000000000000 /* Default-Portrait@2x.png in Resources */,
+				212082110000000000000000 /* Icon-60@2x.png in Resources */,
+				F4B42FB00000000000000000 /* Icon-60@3x.png in Resources */,
+				3D7603E50000000000000000 /* Icon-76.png in Resources */,
+				2BA0C4CF0000000000000000 /* Icon-76@2x.png in Resources */,
+				3621078D0000000000000000 /* Icon-Small.png in Resources */,
+				244BC8770000000000000000 /* Icon-Small@2x.png in Resources */,
+				127689610000000000000000 /* Icon-Small@3x.png in Resources */,
+				2087D8BD0000000000000000 /* Icon-Small-40.png in Resources */,
+				2E9928190000000000000000 /* Icon-Small-40@2x.png in Resources */,
+				1CC3E9030000000000000000 /* Icon-Small-40@3x.png in Resources */,
+				AEEA9ED00000000000000000 /* LaunchScreen.storyboard in Resources */,
+				39196AD70000000000000000 /* MainView.xib in Resources */,
+				271148A50000000000000000 /* Info.plist in Resources */,
+				153C098F0000000000000000 /* Entitlements.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D1C88EE00000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3340A0240000000000000000 /* AppDelegate.h in Sources */,
+				285A972E0000000000000000 /* AppDelegate.m in Sources */,
+				26789F510000000000000000 /* MainView.h in Sources */,
+				21059AD60000000000000000 /* MainView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2C9D51280000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		3CC37B7D0000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "toDelete_BlueToothClassic.iOS";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		776A15700000000000000000 /* Build configuration list for PBXProject "toDelete_BlueToothClassic.iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2C9D51280000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		15BAD3CF0000000000000000 /* Build configuration list for PBXNativeTarget "toDelete_BlueToothClassic.iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CC37B7D0000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 11C400F90000000000000000 /* Project object */;
+}
